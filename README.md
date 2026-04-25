@@ -48,13 +48,7 @@ Crystals detected (white overlay) on LaB6 and MI2 protein crystal chips at 20x m
 ### Hemocytometer — Grid Alignment + Crystal Counting
 Canny + Hough grid detection, cell extraction, and contour-based crystal counting:
 
-![Hough detection](results/canny_hough_detection.png)
 ![Crystal overlay](results/crystal_counting_overlay.png)
-
-### Threshold Method Comparison
-Multiple thresholding strategies tested on cropped cells (Otsu, Adaptive, Triangle, Yen, Li, Consensus):
-
-![Threshold comparison](results/threshold_comparison.png)
 
 ---
 
